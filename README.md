@@ -1,5 +1,9 @@
 # Talking Clock
 
+## About
+- Written in JavaScript
+- Need to download Node.js and Express
+
 ## Object 1
 Run the talkingClock() function from the talkingClock.js file, with no arguments passed
 
