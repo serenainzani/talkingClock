@@ -4,7 +4,7 @@
 Run the talkingClock() function from the talkingClock.js file, with no arguments passed
 
 ## Objective 2
-Run the talkingClock() function from talkingClock.js file, as pass a 24h clock time as a string e.g. "14:30"
+Run the talkingClock() function from talkingClock.js file, and pass a 24h clock time as a string e.g. "14:30"
 
 ## Objective 3
 - Run the server.js file (such as through the npm run command). 
