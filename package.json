@@ -1,0 +1,16 @@
+{
+  "name": "talking-clock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "keywords": [],
+  "author": "Serena Inzani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^9.1.3"
+  }
+}
