@@ -3,6 +3,7 @@
 ## About
 - Written in JavaScript
 - Need to download Node.js and Express
+- For unit tests, please run the unitTests.js file
 
 ## Object 1
 Run the talkingClock() function from the talkingClock.js file, with no arguments passed
